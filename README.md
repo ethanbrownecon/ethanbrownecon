@@ -18,3 +18,4 @@ Stata, R, Python, SQL, Power BI, and LaTeX.
 
 - Email: ebrown0715@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ethanbrownecon/
+- Website: https://sites.google.com/view/ethanbrownecon/home
